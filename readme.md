@@ -11,7 +11,6 @@
 ## Установка
 
 1. Склонировать репозиторий:
-
 git clone https://github.com/colsman/crypto_price_bot.git
 
 2. Установить зависимости:
