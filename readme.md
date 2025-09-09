@@ -16,7 +16,7 @@ git clone https://github.com/colsman/crypto_price_bot.git
 2. Установить зависимости:
 pip install -r requirements.txt
 
-3. Вставить свой API Token
+3. Вставить свой API Token в: 
 app = ApplicationBuilder().token("YOUR_TOKEN").build()
 
 4. Запустить бота
